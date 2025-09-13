@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/YOUR_GITHUB_USER/argocd-microservices-demo.git'
+    repoURL: 'https://github.com/Sagardesai994/argocd-microservices-demo.git'
     targetRevision: HEAD
     path: apps/backend
   destination:
